@@ -1,0 +1,10 @@
+*{padding: 0; margin: 0; box-sizing: border-box; font-family: Arial;}
+body{background: linear-gradient(45deg, #019fbd, #fbd019); height:100vh}
+.container{display: flex; justify-content: center;align-items: center; height: 100vh;}
+.todo_box{width: 600px; min-height: 400px; background: #161c2d; box-shadow: 0 0 10px 0 rgba(0,0,0,0.2); padding: 20px 10px;}
+h2{text-align: center; color: #fff;}
+
+form{margin: 20px auto; width: 90%;}
+input, button{border: none; outline: none; padding: 8px 16px; font-size: 16px;}
+.input{ width: 80%; color: #1a1a1a; box-shadow: 0 0 5px 0 rgba(0,0,0,0.2);}
+.btn{background: rgb(2, 133, 72); color: #fff; margin-left: -10px;}
