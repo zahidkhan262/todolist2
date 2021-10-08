@@ -8,3 +8,4 @@ form{margin: 20px auto; width: 90%;}
 input, button{border: none; outline: none; padding: 8px 16px; font-size: 16px;}
 .input{ width: 80%; color: #1a1a1a; box-shadow: 0 0 5px 0 rgba(0,0,0,0.2);}
 .btn{background: rgb(2, 133, 72); color: #fff; margin-left: -10px;}
+span{margin:20px auto; font-size:13px;}
